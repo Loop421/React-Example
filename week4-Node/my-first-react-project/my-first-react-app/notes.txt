@@ -1,0 +1,37 @@
+TypeScript
+* typing
+* generic typing
+* interfaces
+* polyfills
+* enums
+* static
+* access modifier
+
+core errors happen on the server side
+
+react is a framework that deals with client 
+side in a form of single page app
+
+use npm to create react app
+
+component break up the user view
+state and behaovir 
+
+the state that component owns
+
+react-router, react-router-dom
+
+npm install react-router react-router-dom
+npm install @types/react -> this need to be done because the above  command will break it 
+
+npm install @types/react-router @types/react-router-dom
+
+import {History} from 'history'; -> to pass last visit pages
+
+web modules -> clear or deafult path
+
+a href -> to make a request to the server
+
+npm build
+
+put production build in the java project webapp folder
